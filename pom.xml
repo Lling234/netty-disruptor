@@ -17,6 +17,7 @@
     <modules>
         <module>netty-disruptor-client</module>
         <module>netty-disruptor-server</module>
+        <module>netty-disruptor-com</module>
     </modules>
 
 </project>
