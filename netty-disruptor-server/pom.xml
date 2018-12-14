@@ -33,9 +33,10 @@
 
         <dependency>
             <groupId>com.ll</groupId>
-            <artifactId>netty-disruptor-client</artifactId>
+            <artifactId>netty-disruptor-com</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
+
     </dependencies>
 
     <build>
